@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
 
-import reactTreeWalker from 'react-tree-walker'
+import reactTreeWalker from 'react-tree-walker/src/index'
 
 const warnmsg =
   '"react-async-bootstrapper" deprecation notice: please rename your "asyncBootsrap" methods to "bootstrap"'
