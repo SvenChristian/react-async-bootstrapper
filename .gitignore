@@ -12,7 +12,7 @@ npm-debug.log
 coverage
 
 # Build
-dist
+# dist
 
 # IDEs
 .vscode
